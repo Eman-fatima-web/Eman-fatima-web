@@ -316,9 +316,6 @@ I am **Eman Fatima**, a Computer Science student and Full Stack Web Developer (M
 </tr>
 </table>
 
-<a name="experience"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ecfdf5,50:d1fae5,100:a7f3d0&height=70&text=EDUCATION%20%26%20EXPERIENCE&fontSize=26&fontColor=065f46&fontAlignY=52" width="100%" alt="Education and Experience"/>
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -340,9 +337,6 @@ I am **Eman Fatima**, a Computer Science student and Full Stack Web Developer (M
 </td>
 </tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ecfdf5,50:d1fae5,100:a7f3d0&height=70&text=ACHIEVEMENTS%20%26%20GOALS&fontSize=26&fontColor=065f46&fontAlignY=52" width="100%" alt="Achievements and Goals"/>
-
 <table>
 <tr>
 <td width="50%" valign="top">
